@@ -1,6 +1,6 @@
 # 🧨 Minesweeper in Go (Ebiten)
 
-A classic Minesweeper clone written in Go, using the [Ebiten](https://ebiten.org/) 2D game engine.  
+A classic Minesweeper clone written in Go, using the [Ebiten](https://ebitengine.org/) 2D game engine.  
 ⚡ Fast, clean, and focused on gameplay accuracy and responsiveness.
 
 ---
